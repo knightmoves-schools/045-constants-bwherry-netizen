@@ -2,7 +2,8 @@ let MAX_CAPACITY = 500;
 
 
 
-document.getElementById("result").innerHTML = MAC_CAPACITY;
+document.getElementById("result").innerHTML = MAX_CAPACITY;
+
 
 
 
